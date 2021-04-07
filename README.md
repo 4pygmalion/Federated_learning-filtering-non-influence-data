@@ -1,4 +1,4 @@
-# Federated learning filtering non influence data for statistical heterogenous data
+# Federated learning filtering non-influential data for non-IID data
 
 Federated learning with influence function
 
