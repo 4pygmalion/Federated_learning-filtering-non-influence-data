@@ -1,4 +1,5 @@
-# Federated_influence
+# Federated learning filtering non influence data for statistical heterogenous data
+
 Federated learning with influence function
 
 Federated learning with ICML 2017 Best paper "influence function" 
