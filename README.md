@@ -24,5 +24,16 @@ below pictures are the most harmful data for federated learning
 <img width="452" alt="Screen Shot 2021-04-07 at 9 44 34 AM" src="https://user-images.githubusercontent.com/45510932/113794637-f44c0780-9785-11eb-8ccd-90d74d15f9c0.png">
 -------------------------------------------------
 
+
+# Calculation
+----------------------------------
+![image](https://user-images.githubusercontent.com/45510932/113869112-51c66f80-97eb-11eb-8994-5f19e27e7496.png)
+
+![image](https://user-images.githubusercontent.com/45510932/113869142-57bc5080-97eb-11eb-9c39-b6318d15eb7b.png)
+
+![image](https://user-images.githubusercontent.com/45510932/113869197-660a6c80-97eb-11eb-93b4-f4f20f1b30a1.png)
+
+
+
 This code was inspired by 
 https://github.com/nayopu/influence_function_with_lissa
