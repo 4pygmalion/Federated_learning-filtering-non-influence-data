@@ -6,6 +6,11 @@ Federated learning with ICML 2017 Best paper "influence function"
 This code is compatilble with Tensorflow 2.x which can use eagar execution (from previous TensorFlow 1.x)
 
 
+# 1 versus 7 classification In MNIST dataset problem
+------------------------------------------------
+below pictures are the most harmful data for federated learning 
+![image](https://user-images.githubusercontent.com/45510932/113868137-4de61d80-97ea-11eb-8a2e-e96a28202710.png)
+
 
 
 -------------------------------------------------
