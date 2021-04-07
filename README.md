@@ -13,6 +13,11 @@ below pictures are the most harmful data for federated learning
 ![image](https://user-images.githubusercontent.com/45510932/113868137-4de61d80-97ea-11eb-8a2e-e96a28202710.png)
 
 
+#### After filtering non-influential data
+---------------------------------------------
+![image](https://user-images.githubusercontent.com/45510932/113869487-c0a3c880-97eb-11eb-838e-6fa21158f7f8.png)
+
+
 
 -------------------------------------------------
 # Estimation of loss in model without bias
