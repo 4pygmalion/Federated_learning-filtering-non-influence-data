@@ -39,6 +39,16 @@ below pictures are the most harmful data for federated learning
 ![image](https://user-images.githubusercontent.com/45510932/113869197-660a6c80-97eb-11eb-93b4-f4f20f1b30a1.png)
 
 
+#### How to use?
+```python3
+```
+#### Requirement
+```python3
+```
+#### Install
+```python3
+```
+
 
 This code was inspired by 
 https://github.com/nayopu/influence_function_with_lissa
