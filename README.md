@@ -43,8 +43,10 @@ below pictures are the most harmful data for federated learning
 ```python3
 ```
 #### Requirement
-```python3
-```
+tensorflow 2.x
+numpy 1.xx (we recommand to use 1.18.5 which we used in our paper)
+sklearn 0.23.x (only used in simulation)
+
 #### Install
 ```python3
 ```
