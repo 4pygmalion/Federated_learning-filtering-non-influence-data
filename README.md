@@ -96,7 +96,7 @@ sklearn 0.23.x (only used in simulation)
 
 
 #### Install
-```git clone
+```git clone https://github.com/4pygmalion/Federated_learning-filtering-non-influence-data.git
 ```
 
 
