@@ -52,3 +52,5 @@ below pictures are the most harmful data for federated learning
 
 This code was inspired by 
 https://github.com/nayopu/influence_function_with_lissa
+
+and ICML 2017 best paper Understanding Black-box Predictions via Influence Functions (https://arxiv.org/pdf/1703.04730)
